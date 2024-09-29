@@ -8,7 +8,7 @@
 
 <div>
 <img align="right" src="https://github.com/user-attachments/assets/8caebdf6-2f5a-4ace-ae9b-fa97e6ee9ff7" width="360px"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matias-Porto&hide=TeX&layout=compact&theme=dark"/> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matias-Porto&hide=TeX&layout=compact&theme=dark"/> 
 </div>
 
 ### 🔨 Languages and Tools:
